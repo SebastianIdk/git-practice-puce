@@ -1,1 +1,2 @@
-Este es un proyecto react | Este es un cambio por Josue Zambrano | Mi año de nacimiento es 1999
+
+Este es un proyecto react | Este es un cambio por Sebastián Márquez, Josue Zambrano | La fecha de nacimiento de Josue es 1999
